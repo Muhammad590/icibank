@@ -962,8 +962,7 @@ span.open-status {
   .right-side-ul
   > li.countryselect:hover
   .drop-select::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down_orange.png")
-    no-repeat center; */
+ 
   background-position: 0 2.5px;
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
@@ -1313,8 +1312,7 @@ span.open-status {
   top: -12px;
   width: 24px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 .new-header.desktop .sub-menu-wrapper.is-active {
   display: block;
@@ -3092,24 +3090,21 @@ span.open-status {
   cursor: pointer;
 }
 .search-box .search-btns button.search-btn {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon_search.png")
-    no-repeat; */
+
   background-size: contain;
   width: 20px;
   height: 20px;
 }
 .search-box .search-btns button.close-btn {
   margin-left: auto;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   background-size: contain;
   width: 16px;
   height: 16px;
 }
 .search-box .search-btns a.close-btn {
   margin-left: auto;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   background-size: contain;
   width: 16px;
   height: 16px;
@@ -3339,8 +3334,7 @@ span.open-status {
   top: -12px;
   width: 28px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 @media only screen and (max-width: 1600px) {
   .notification-list-container {
@@ -3676,8 +3670,7 @@ span.open-status {
 }
 .new-header.mobile .languageselect-mob:hover .drop-select::after,
 .new-header.mobile .countryselect-mob:hover .drop-select::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down_orange.png")
-    no-repeat center; */
+ 
   background-position: 0 2.5px;
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
@@ -3712,8 +3705,7 @@ span.open-status {
   top: -12px;
   width: 22px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 .new-header.mobile .languageselect-mob .sub-menu-wrapper.active,
 .new-header.mobile .countryselect-mob .sub-menu-wrapper.active {
@@ -4063,8 +4055,7 @@ span.open-status {
 }
 .new-header.mobile .menu-fold .menu-list-item > ul > li:after {
   content: "";
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down_orange.png")
-    no-repeat center; */
+ 
   height: 5px;
   position: absolute;
   right: 0;
@@ -4602,8 +4593,7 @@ span.open-status {
 }
 .new-header.mobile .login-overlay .menu-list-item > ul > li p:after {
   content: "";
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-grey.png")
-    no-repeat center; */
+
   width: 10px;
   height: 10px;
   display: inline-block;
@@ -4620,82 +4610,7 @@ span.open-status {
 .new-header.offer-header.mobile .menu-fold .menu-list-item > ul > li img {
   width: 22px;
 }
-/* @keyframes grow {
-  0 {
-    opacity: 0;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-  50% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-}
-@-webkit-keyframes grow {
-  0 {
-    opacity: 0;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-  50% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-}
-@-moz-keyframes grow {
-  0 {
-    opacity: 0;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-  50% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-}
-@-ms-keyframes grow {
-  0 {
-    opacity: 0;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-  50% {
-    opacity: 1;
-    -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
-    transform: scale(1.2);
-  }
-  100% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-} */
+
 .cookieTextArea {
   background: #dedede;
   padding: 0;
@@ -5380,8 +5295,7 @@ table.custom-table::-webkit-scrollbar {
   top: -12px;
   width: 24px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 .country-flag-container .sub-menu-wrapper.is-active {
   display: block;
@@ -5461,15 +5375,13 @@ table.custom-table::-webkit-scrollbar {
   position: absolute;
   top: 8px;
   right: 10px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down.png")
-    no-repeat center; */
+
   background-position: 0 2.5px;
   width: 10px;
   height: 10px;
 }
 .country-flag-container .countryselect:hover .drop-select::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down_orange.png")
-    no-repeat center; */
+
   background-position: 0 2.5px;
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
@@ -5511,15 +5423,13 @@ table.custom-table::-webkit-scrollbar {
   position: absolute;
   top: 1px;
   right: 10px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down.png")
-    no-repeat center; */
+
   background-position: 0 2.5px;
   width: 10px;
   height: 10px;
 }
 .countryselect-mob:hover .drop-select::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/arrow_down_orange.png")
-    no-repeat center; */
+ 
   background-position: 0 2.5px;
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
@@ -5552,8 +5462,7 @@ table.custom-table::-webkit-scrollbar {
   top: -12px;
   width: 22px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 .countryselect-mob .sub-menu-wrapper.active {
   display: block;
@@ -6848,16 +6757,14 @@ footer.wcmmode.edit {
   height: 22px;
   top: 15px;
   right: 25px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/ac-plus.svg")
-    no-repeat center; */
+
 }
 .accordion .accordion-list .accordion-head.active {
   color: #f37e20;
 }
 .accordion .accordion-list .accordion-head.active::after {
   content: "";
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/ac-minus.svg")
-    no-repeat center; */
+
 }
 @media only screen and (max-width: tablet) {
   .accordion .accordion-list .accordion-head {
@@ -7270,8 +7177,7 @@ footer.wcmmode.edit {
   height: 40px;
 }
 .banner-section .banner-slider .slick-arrow.slick-prev {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/white_left_arrow.svg")
-    no-repeat center; */
+
   background-size: 16px;
   background-position: 10px 7px;
 }
@@ -7279,8 +7185,7 @@ footer.wcmmode.edit {
   background-position: center;
 }
 .banner-section .banner-slider .slick-arrow.slick-next {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/white_right_arrow.svg")
-    no-repeat center; */
+
   background-size: 16px;
   background-position: 14px 7px;
 }
@@ -9641,23 +9546,19 @@ footer.wcmmode.edit {
 .banner-slider .img-with-content .img-description .slick-arrow.slick-prev {
   left: 43%;
   width: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/chevron-left-white.svg")
-    no-repeat; */
+
 }
 .banner-slider .img-with-content .img-description .slick-arrow.slick-next {
   right: 43%;
   width: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/chevron-right-white.svg")
-    no-repeat; */
+
 }
 .banner-slider
   .img-with-content
   .img-description-inner
   .button-group
   .ic-more:after {
-  /* content: "";
-  background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-    no-repeat; */
+
 }
 @media only screen and (max-width: 991px) {
   .banner-slider .img-with-content .slick-dots {
@@ -10062,8 +9963,7 @@ footer.wcmmode.edit {
   margin-right: 10px;
 }
 .adddress-section .section-inner .content ul li.map::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/atm/map.svg")
-    no-repeat left; */
+
 }
 .adddress-section .section-inner .content ul li.bank {
   align-items: center;
@@ -10083,12 +9983,10 @@ footer.wcmmode.edit {
   -ms-flex-align: center;
 }
 .adddress-section .section-inner .content ul li.call::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/atm/mic.svg")
-    no-repeat left; */
+
 }
 .adddress-section .section-inner .content ul li.time::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/atm/time.svg")
-    no-repeat left; */
+
 }
 .adddress-section .section-inner .content .ic-btn {
   min-width: 210px;
@@ -10181,13 +10079,11 @@ footer.wcmmode.edit {
   opacity: 0.7;
 }
 .service-offerd-section .service-offerd-slider .slick-arrow.slick-prev {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow.png")
-    no-repeat 9px 7px; */
+
   left: -10px;
 }
 .service-offerd-section .service-offerd-slider .slick-arrow.slick-next {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow.png")
-    no-repeat 14px 7px; */
+
   right: -15px;
 }
 .service-offerd-section .service-offerd-slider .slick-dots {
@@ -10405,8 +10301,7 @@ footer.wcmmode.edit {
   font-size: 12px;
 }
 .location-section .trending-deals-tab .location-card .card-heading .phone {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/phone.svg")
-    no-repeat left; */
+
   margin-left: auto;
   padding-left: 20px;
   font-size: 14px;
@@ -10431,8 +10326,7 @@ footer.wcmmode.edit {
   .location-card
   .card-body
   .address::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/atm/map.svg")
-    no-repeat left; */
+
   content: "";
   min-width: 30px;
   min-height: 30px;
@@ -10450,13 +10344,11 @@ footer.wcmmode.edit {
   margin-bottom: 0;
 }
 .location-section .trending-deals-tab .slick-arrow.slick-next {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow.png")
-    no-repeat 14px 7px; */
+
   right: -20px;
 }
 .location-section .trending-deals-tab .slick-arrow.slick-prev {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow.png")
-    no-repeat 9px 7px; */
+
   left: -20px;
 }
 .location-section .nav-tabs {
@@ -10531,8 +10423,7 @@ footer.wcmmode.edit {
   width: calc(100% - 115px);
 }
 .ifsc-finder-section .search-container .search-box-area input[type="text"] {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/search-icon.svg")
-    no-repeat right; */
+
   background-size: 20px;
   width: calc(100% - 15px);
   padding: 10px 25px 10px 15px;
@@ -11005,8 +10896,7 @@ footer.wcmmode.edit {
 .cross-sell-popup .popup-search .search-icon {
   width: 40px;
   height: 16px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon_search_orange.svg")
-    no-repeat center; */
+
   background-size: 16px;
   -webkit-border-radius: 0 20px 20px 0;
   -moz-border-radius: 0 20px 20px 0;
@@ -11112,24 +11002,21 @@ footer.wcmmode.edit {
   cursor: pointer;
 }
 .cross-sell-popup .search-box .search-btns button.search-btn {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon_search.png")
-    no-repeat; */
+ 
   background-size: contain;
   width: 20px;
   height: 20px;
 }
 .cross-sell-popup .search-box .search-btns button.close-btn {
   margin-left: auto;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   background-size: contain;
   width: 16px;
   height: 16px;
 }
 .cross-sell-popup .search-box .search-btns a.close-btn {
   margin-left: auto;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   background-size: contain;
   width: 16px;
   height: 16px;
@@ -11149,8 +11036,7 @@ footer.wcmmode.edit {
   color: white;
 }
 .cross-sell-popup .search-box--transparent .search-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon_search_white.png")
-    no-repeat center; */
+
   background-size: 16px;
 }
 .cross-sell-popup .ic-white-link {
@@ -11164,8 +11050,7 @@ footer.wcmmode.edit {
 .cross-sell-popup .ic-white-link:after {
   right: 5px;
   top: 6px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-    no-repeat !important; */
+
   width: 6px;
   height: 10px;
   background-size: contain;
@@ -11300,8 +11185,7 @@ footer.wcmmode.edit {
   display: inline-block;
   width: 57px;
   height: 40px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow.png")
-    no-repeat center center; */
+ 
   background-size: 10px;
 }
 .right-arrow {
@@ -11325,8 +11209,7 @@ footer.wcmmode.edit {
   display: inline-block;
   width: 57px;
   height: 40px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow.png")
-    no-repeat center center; */
+
   background-size: 10px;
   padding: 20px 20px;
 }
@@ -11445,19 +11328,16 @@ footer.wcmmode.edit {
 }
 .breadcrumb-nav .nav-links.all-links li.last-child:after {
   right: -35px !important;
-  /* background: url(../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/normal-right.png)
-    no-repeat !important; */
+
 }
 .breadcrumb-nav .nav-links.all-links li:last-child:after {
   width: 40px;
   right: -5px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/tab-right-icon.png")
-    no-repeat; */
+  
   z-index: 1;
 }
 .breadcrumb-nav .nav-links.all-links li:last-child.active::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/active-right.png")
-    no-repeat; */
+
   right: -35px;
 }
 .breadcrumb-nav .more-link-ul {
@@ -11500,8 +11380,7 @@ footer.wcmmode.edit {
 }
 .breadcrumb-nav .more-link-ul .nav-dropdown > a:after {
   right: -40px;
-  /* background: url("../components/content/subnavigation/clientlib/images/icons/normal-right.png") */
-    /* no-repeat; */
+
   z-index: 1;
 }
 .breadcrumb-nav .more-link-ul .nav-dropdown.active > a {
@@ -11522,8 +11401,7 @@ footer.wcmmode.edit {
 }
 .breadcrumb-nav .more-link-ul .nav-dropdown.active > a::before {
   left: -22px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/active-left.png")
-    no-repeat; */
+
   z-index: 2;
   top: 0;
   width: 40px;
@@ -11533,8 +11411,7 @@ footer.wcmmode.edit {
 .breadcrumb-nav .more-link-ul .nav-dropdown.active > a:after {
   width: 25px;
   right: -20px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/active-right.png")
-    no-repeat; */
+
   z-index: 2;
 }
 .breadcrumb-nav .nav-dropdown a:focus {
@@ -11736,14 +11613,12 @@ footer.wcmmode.edit {
   vertical-align: middle;
   width: 16px;
   height: 16px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/bookmark.png")
-    no-repeat center; */
+
   background-size: 16px;
   cursor: pointer;
 }
 .blog-card .card-inner .content .card-bottom .bookmark-share .bookmark:hover {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/bookmark-orange.png")
-    no-repeat center; */
+
   background-size: 16px;
 }
 .blog-card .card-inner .content .card-bottom .bookmark-share .share {
@@ -11752,8 +11627,7 @@ footer.wcmmode.edit {
   margin-left: 10px;
   width: 16px;
   height: 16px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/share.png")
-    no-repeat center; */
+
   background-size: 16px;
   cursor: pointer;
 }
@@ -11923,9 +11797,7 @@ footer.wcmmode.edit {
   z-index: 13;
 }
 .whatsapp-link .link {
-  /* background: #4caf50
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/whatsup.svg")
-    no-repeat center center; */
+
   width: 60px;
   height: 45px;
   display: block;
@@ -12232,9 +12104,7 @@ footer.wcmmode.edit {
   background: #ad1e23;
 }
 .logout-top {
-  /* background: #a01319
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/logout-bg.jpg")
-    no-repeat bottom; */
+
   background-size: cover;
 }
 .logout-top .section-inner {
@@ -12470,9 +12340,7 @@ footer.wcmmode.edit {
   margin-top: 10px;
 }
 .logout-top .lt-cards .lt-card .amazon-box {
-  /* background: #fff2eb
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/amazon-bg.png")
-    bottom no-repeat; */
+
   padding: 20px 40px 30px;
   margin: 0 -40px -30px;
   border-radius: 10px;
@@ -12573,9 +12441,7 @@ footer.wcmmode.edit {
 }
 @media only screen and (max-width: tablet) {
   .logout-top .lt-cards .lt-card .amazon-box {
-    /* background: #fff2eb
-      url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/amazon-bg.png")
-      bottom no-repeat; */
+
     padding: 20px;
     border-radius: 10px;
   }
@@ -12625,9 +12491,7 @@ footer.wcmmode.edit {
 }
 @media only screen and (max-width: 990px) {
   .logout-top .lt-cards .lt-card .amazon-box {
-    /* background: #fff2eb
-      url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/amazon-bg.png")
-      bottom no-repeat; */
+
     padding: 20px 40px 30px;
     margin: 0 -40px -30px;
     border-radius: 10px;
@@ -12695,8 +12559,7 @@ footer.wcmmode.edit {
   color: #fff;
 }
 .logout-top .lt-title a::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-    no-repeat; */
+
 }
 @media only screen and (max-width: tablet) {
   .logout-top .lt-title {
@@ -12734,34 +12597,26 @@ footer.wcmmode.edit {
   border-bottom: 2px solid #f37e20;
 }
 .logout-top .card-navs .rate-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/rate-g.svg")
-    no-repeat; */
+
 }
 .logout-top .card-navs .rate-icon.active {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/rate-o.svg")
-    no-repeat; */
+
 }
 .logout-top .card-navs .share-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/share-g.svg")
-    no-repeat; */
+
 }
 .logout-top .card-navs .share-icon.active {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/share-o.svg")
-    no-repeat; */
+
 }
 .logout-top .card-navs .refer-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/refer-g.svg")
-    no-repeat; */
+
 }
 .logout-top .card-navs .refer-icon.active {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/refer-o.svg")
-    no-repeat; */
+
 }
 @media only screen and (max-width: tablet) {
   .logout-top {
-    /* background: #b23135
-      url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/logout-mob-bg.jpg")
-      no-repeat right bottom; */
+
     background-size: cover;
   }
   .logout-top .card-navs {
@@ -12849,28 +12704,22 @@ footer.wcmmode.edit {
   margin-right: 0;
 }
 .share-box .social-links .link.wa {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/whatsapp.svg")
-    no-repeat; */
+
 }
 .share-box .social-links .link.fb {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/fb.svg")
-    no-repeat; */
+
 }
 .share-box .social-links .link.tw {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/tw.svg")
-    no-repeat; */
+
 }
 .share-box .social-links .link.ln {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/ln.svg")
-    no-repeat; */
+
 }
 .share-box .social-links .link.ig {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/ig.svg")
-    no-repeat; */
+
 }
 .share-box .social-links .link.insta {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/logout/insta-follow.svg")
-    no-repeat; */
+
 }
 .share-box .youtube-text {
   margin: 10px 0 40px;
@@ -13025,11 +12874,7 @@ label#product-err {
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
   border-radius: 4px;
-  /* -webkit-transition: background 0.3s;
-  -moz-transition: background 0.3s;
-  -ms-transition: background 0.3s;
-  -o-transition: background 0.3s;
-  transition: background 0.3s; */
+
   margin: 0 15px;
 }
 .choose-us-section .block-card-item .title {
@@ -13201,8 +13046,7 @@ label#product-err {
   }
 }
 .interest-rates {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/tabs1/bg.png")
-    no-repeat; */
+
   background-size: cover;
   height: 414px;
   margin-top: 30px;
@@ -13323,7 +13167,7 @@ label#product-err {
 .interest-rates .section-inner .share-value .currency .sign:before,
 .interest-rates .section-inner .share-value .profit-loss .sign:before {
   content: "";
-  /* background-image: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/tabs1/green_top-arrow.png"); */
+  
   width: 17px;
   height: 17px;
   display: inline-block;
@@ -13642,79 +13486,24 @@ label#product-err {
   border-bottom: 0;
 }
 .widget-content .widget .list li.sr-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/service-request-m.svg")
-    no-repeat center; */
+
   background-size: 100%;
 }
 .widget-content .widget .list li.sr-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/service-request-w.svg")
-    no-repeat center; */
+
   background-size: 100%;
 }
 .widget-content .widget .list li.atm-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/card-m.svg")
-    no-repeat center; */
+
 }
 .widget-content .widget .list li.atm-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/card-w.svg")
-    no-repeat center; */
+
 }
 .widget-content .widget .list li.branch-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/bank-m.svg")
-    no-repeat center; */
+
 }
-.widget-content .widget .list li.branch-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/customer-care/bank-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.block-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/blocked-card-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.block-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/blocked-card-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.stop-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/stop-card-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.stop-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/stop-card-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.report-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/report-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.report-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/report-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.atm-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/atm-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.atm-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/atm-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.user-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/UserID-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.user-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/UserID-w.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.lock-icon::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/password-m.svg")
-    no-repeat center; */
-}
-.widget-content .widget .list li.lock-icon:hover::before {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/services/password-w.svg")
-    no-repeat center; */
-}
+
+
 .widget-content .widget .list li:hover {
   background: #f37e20;
 }
@@ -14006,8 +13795,7 @@ label#product-err {
   z-index: 1;
 }
 .browse-product-faq .browse-product-slider .slick-arrow.slick-prev {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/left-arrow-w.png")
-    no-repeat 5px center; */
+
   -webkit-border-radius: 0 50px 50px 0;
   -moz-border-radius: 0 50px 50px 0;
   -ms-border-radius: 0 50px 50px 0;
@@ -14016,8 +13804,7 @@ label#product-err {
   left: -5px;
 }
 .browse-product-faq .browse-product-slider .slick-arrow.slick-next {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/right-arrow-w.png")
-    no-repeat 10px center; */
+
   -webkit-border-radius: 50px 0 0 50px;
   -moz-border-radius: 50px 0 0 50px;
   -ms-border-radius: 50px 0 0 50px;
@@ -14527,9 +14314,7 @@ label#product-err {
   height: 22px !important;
 }
 .loan-forms .slick-arrow.slick-prev {
-  /* background: #f37e20
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow_orange.png")
-    center center no-repeat !important; */
+
   left: -53px;
   top: 5px;
   border: 0;
@@ -14539,9 +14324,7 @@ label#product-err {
   border: 0;
 }
 .loan-forms .slick-arrow.slick-next {
-  /* background: #f37e20
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center center no-repeat !important; */
+
   right: -8px;
   top: 5px;
   border: 0;
@@ -14550,9 +14333,7 @@ label#product-err {
   border: 0;
 }
 .loan-forms .slick-arrow.arrow-disable {
-  /* background: #4b4b4b
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center center no-repeat !important; */
+
   pointer-events: none;
 }
 .loan-forms .slick-dots {
@@ -14658,8 +14439,7 @@ label#product-err {
   width: 10px;
   height: 10px;
   margin-left: 5px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more.png")
-    no-repeat center; */
+
 }
 .customer-care-content .search-container {
   background: #074a86;
@@ -14685,10 +14465,7 @@ label#product-err {
 .customer-care-content .search-container .search-label .ic-more {
   color: #fff;
 }
-.customer-care-content .search-container .search-label .ic-more::after {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-    no-repeat; */
-}
+
 .customer-care-content .search-container .search-box-area {
   border: 1px solid #f37e20;
 }
@@ -14735,8 +14512,7 @@ label#product-err {
   .search-container
   .search-filter-slider
   .slick-arrow.slick-prev {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/left-arrow-w.png")
-    no-repeat center; */
+
   left: -30px;
   background-size: 6px;
   background-position: 5px 5px;
@@ -14749,8 +14525,7 @@ label#product-err {
   .search-container
   .search-filter-slider
   .slick-arrow.slick-next {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/right-arrow-w.png")
-    no-repeat center; */
+
   right: -30px;
   background-size: 6px;
   background-position: 8px 5px;
@@ -14785,10 +14560,7 @@ label#product-err {
     width: 110px;
     min-width: auto;
   }
-  .customer-care-content .page-topbar .link span.icon {
-    /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-      no-repeat center; */
-  }
+
   .customer-care-content .search-container {
     margin: 0 -20px;
     max-width: calc(100% + 40px);
@@ -14908,10 +14680,7 @@ label#product-err {
     width: 110px;
     min-width: auto;
   }
-  .customer-care-content .page-topbar .link span.icon {
-    /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png")
-      no-repeat center; */
-  }
+
   .customer-care-content .search-container {
     margin: 0 -20px;
     max-width: calc(100% + 40px);
@@ -15375,9 +15144,7 @@ h2 {
   box-shadow: none;
   appearance: none;
   cursor: pointer;
-  /* background: #f37e20
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center 7px no-repeat; */
+
 }
 .ways-to-bank-section
   .tab-content
@@ -15385,9 +15152,7 @@ h2 {
   .form-groups
   .form-group-input
   .arrow.arrow-disable {
-  /* background: #4b4b4b
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center 7px no-repeat; */
+
   pointer-events: none;
 }
 .ways-to-bank-section
@@ -15963,8 +15728,7 @@ h2 {
   top: 6px;
 }
 .place-filter .ui-selectmenu-button {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/location-icon.svg")
-    no-repeat left 0; */
+
   margin-top: 0;
   width: auto !important;
   min-width: 200px;
@@ -16604,9 +16368,7 @@ ul#cityselector-menu {
   .tab-pane
   .loan-forms
   .slick-arrow.slick-prev {
-  /* background: #f37e20
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow_orange.png")
-    center center no-repeat !important; */
+
   left: -53px;
   top: 5px;
   border: 0;
@@ -16624,9 +16386,7 @@ ul#cityselector-menu {
   .tab-pane
   .loan-forms
   .slick-arrow.slick-next {
-  /* background: #f37e20
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center center no-repeat !important; */
+
   right: -8px;
   top: 5px;
   border: 0;
@@ -16643,9 +16403,7 @@ ul#cityselector-menu {
   .tab-pane
   .loan-forms
   .slick-arrow.arrow-disable {
-  /* background: #4b4b4b
-    url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_white.png")
-    center center no-repeat !important; */
+
   pointer-events: none;
 }
 .find-right-product-section .right-panel .tab-pane .loan-forms .slick-dots {
@@ -17019,8 +16777,7 @@ input:focus {
 }
 .desktop-section .loader {
   min-height: 450px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/cards/iframe-loader.gif")
-    no-repeat center; */
+ 
   background-size: 315px;
   width: 100%;
 }
@@ -18077,8 +17834,7 @@ ul.space li:last-child {
   position: absolute;
   right: -20px;
   top: 0;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/ic-info.png")
-    right 3px no-repeat !important; */
+
   background-size: 14px !important;
 }
 @media only screen and (max-width: tablet) {
@@ -18245,8 +18001,7 @@ ul.space li:last-child {
 }
 .card-holder .card-panel-top:after {
   content: "";
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/card/card-shadow.png")
-    no-repeat; */
+
   background-size: contain;
   position: absolute;
   bottom: -60px;
@@ -19300,13 +19055,7 @@ ul.space li:last-child {
   border-radius: 50px;
   font-size: 13.4px;
   letter-spacing: 0.02em;
-  /* background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    from(#f37e20),
-    to(#ee4611)
-  ); */
+
   background: linear-gradient(180deg, #f37e20 0, #ee4611 100%);
   color: #fff;
   -webkit-transform: scale(0.8);
@@ -19821,8 +19570,7 @@ ul.space li:last-child {
   right: 0;
   width: 10px;
   height: 10px;
-  /* background: url(../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/down-arrow-o.svg)
-    no-repeat left center; */
+
   background-position: 0 2.5px;
   z-index: 1;
 }
@@ -20044,7 +19792,7 @@ ul.space li:last-child {
 }
 .account-variants-card.banner-card .button-group a.ic-more:link::after,
 .account-variants-card.banner-card .button-group a.ic-more:visited::after {
-  /* background-image: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/more-w.png"); */
+  
 }
 .account-variants-card.banner-card-left .button-group {
   margin-top: 30px;
@@ -21085,8 +20833,7 @@ a.modal-error-close {
   display: inline-block;
   width: 57px;
   height: 40px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow.png")
-    no-repeat center center; */
+
   background-size: 10px;
 }
 .right-arrow {
@@ -21110,8 +20857,7 @@ a.modal-error-close {
   display: inline-block;
   width: 57px;
   height: 40px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow.png")
-    no-repeat center center; */
+
   background-size: 10px;
   padding: 20px 20px;
   -webkit-transform: scaleX(-1);
@@ -21405,8 +21151,7 @@ a.modal-error-close {
   .radio-wrapper
   .radio-list.checked
   .checkmark {
-  /* background-image: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/saving-account/download-app/half-circle.png");
-  border: 1px solid #e0e0e3; */
+
 }
 .online-services-section
   .online-services-inner
@@ -21881,7 +21626,7 @@ a.modal-error-close {
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #3d3d3d;
-  /* background-image: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/date-picker-orange.png"); */
+ 
 }
 .mba-calculator-section .card-panel .card-panel-bottom {
   height: auto !important;
@@ -21935,8 +21680,7 @@ a.modal-error-close {
   position: absolute;
   right: 10px;
   top: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/close-orange.svg")
-    no-repeat center; */
+
   width: 20px;
   height: 20px;
 }
@@ -21976,8 +21720,7 @@ a.modal-error-close {
   height: 2px;
 }
 .mba-calculator-section .add-more-btn .btn-more .icon-plus {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon-plus-orange.png")
-    no-repeat center; */
+
   width: 22px;
   height: 22px;
   margin-right: 9px;
@@ -29658,8 +29401,7 @@ input[type="text"] {
   top: -12px;
   width: 22px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/triangle.png")
-    no-repeat; */
+
 }
 .filter-section .filter-top .sort-tools .sort-dropdown .dropdown-wrapper ul li {
   font-size: 14px;
@@ -49865,8 +49607,7 @@ table.left-column-heading-table tr td.value {
   background: rgba(0, 0, 0, 0.6);
 }
 .comparing-card-popup .close {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   width: 15px;
   height: 15px;
   position: absolute;
@@ -50286,8 +50027,7 @@ table.left-column-heading-table tr td.value {
   height: 40px;
 }
 .creditcard-toast .close {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/orange_close-icon.svg")
-    no-repeat; */
+
   width: 15px;
   height: 15px;
   display: inline-block;
@@ -55105,39 +54845,32 @@ table.left-column-heading-table tr td.value {
   width: 20px;
   height: 20px;
   margin-right: 8px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/download-icon.svg")
-    no-repeat center; */
+
   background-size: 15px;
 }
 .knowledgeCentre .bookmark-share .download:hover {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/download-icon-o.svg")
-    no-repeat center; */
+
   background-size: 15px;
 }
 .knowledgeCentre .bookmark-share .bookmark {
   margin-right: 0;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/bookmark.svg")
-    no-repeat center; */
+ 
   background-size: 14px;
 }
 .knowledgeCentre .bookmark-share .bookmark:hover {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/bookmark-o.svg")
-    no-repeat center; */
+
   background-size: 14px;
 }
 .knowledgeCentre .bookmark-share .bookmark.active {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/bookmark-active.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .bookmark-share .share {
   margin-right: 10px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/share.svg")
-    no-repeat center; */
+
   background-size: 15px;
 }
 .knowledgeCentre .bookmark-share .share:hover {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/share-o.svg")
-    no-repeat center; */
+
   background-size: 15px;
 }
 .knowledgeCentre .share-content {
@@ -55185,8 +54918,7 @@ table.left-column-heading-table tr td.value {
   display: inline-block;
   width: 15px;
   height: 15px;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/close-orange.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .share-content .share-link {
   display: -ms-flexbox;
@@ -55210,24 +54942,19 @@ table.left-column-heading-table tr td.value {
   border: none !important;
 }
 .knowledgeCentre .share-content .share-link li .wa {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/wa-1.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .share-content .share-link li .fb {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/fb-1.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .share-content .share-link li .tw {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/tw-1.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .share-content .share-link li .ln {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/ln-1.svg")
-    no-repeat center; */
+
 }
 .knowledgeCentre .share-content .share-link li .eml {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/email.svg")
-    no-repeat 0 6px; */
+
   background-size: 20px;
 }
 .knowledgeCentre .share-content .youtube-text {
@@ -55254,8 +54981,7 @@ table.left-column-heading-table tr td.value {
 }
 .knowledgeCentre .share-content .youtube-text .copy-icon {
   display: inline-block;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/copy-icon.svg")
-    no-repeat center; */
+
   color: #f37e20;
   width: 15px;
   cursor: pointer;
@@ -55724,24 +55450,21 @@ table.left-column-heading-table tr td.value {
   .indices-lists
   .indices-list
   .icon.indices-icon-1 {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/indices-icon-1.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.indices-card
   .indices-lists
   .indices-list
   .icon.indices-icon-2 {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/indices-icon-2.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.indices-card
   .indices-lists
   .indices-list
   .icon.indices-icon-3 {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/indices-icon-3.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.indices-card
@@ -55866,40 +55589,35 @@ table.left-column-heading-table tr td.value {
   .tab-content
   .heading
   .flag-icon.rbi-flag-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/india.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.cbz-card
   .tab-content
   .heading
   .flag-icon.fed-flag-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/us.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.cbz-card
   .tab-content
   .heading
   .flag-icon.ecb-flag-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/europe.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.cbz-card
   .tab-content
   .heading
   .flag-icon.boe-flag-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/england.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar
   .card-border.cbz-card
   .tab-content
   .heading
   .flag-icon.pboc-flag-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/china.svg")
-    no-repeat; */
+
 }
 .marketEventCalendar .card-border.cbz-card .tab-content .heading p {
   width: calc(100% - 44px);
@@ -56983,7 +56701,7 @@ table.left-column-heading-table tr td.value {
 .events .event .location {
   color: #666;
   margin: 20px 0;
-  /* background: url("clientlib-site-components/images/icons/map.svg") no-repeat; */
+
   padding-left: 20px;
 }
 .events .event .horizontalDiv {
@@ -57027,8 +56745,7 @@ table.left-column-heading-table tr td.value {
   animation: fadeOutShink 0.4s ease both;
 }
 .calendar-btn {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/calender-icon.svg")
-    no-repeat; */
+
   width: 22px;
   height: 20px;
   background-size: 100%;
@@ -57481,8 +57198,7 @@ table.left-column-heading-table tr td.value {
   -webkit-box-shadow: none;
   box-shadow: none;
   cursor: pointer;
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/icon_search.png") */
-    /* no-repeat; */
+
   background-size: contain;
   width: 20px;
   height: 20px;
@@ -57563,15 +57279,11 @@ table.left-column-heading-table tr td.value {
   background-size: 12px !important;
 }
 .imagecarousel .ier-slider .slick-arrow.slick-prev {
-  /* background: rgba(0, 0, 0, 0.4) */
-    /* url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/left_arrow_white.png") */
-    /* no-repeat 10px 10px; */
+
   left: 35px;
 }
 .imagecarousel .ier-slider .slick-arrow.slick-next {
-  /* background: rgba(0, 0, 0, 0.4) */
-    /* url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/right_arrow_w.png") */
-    /* no-repeat 14px 9px; */
+
   right: 35px;
 }
 .imagecarousel .ier-slider .slick-arrow:hover {
