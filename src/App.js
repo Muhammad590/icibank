@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { MDBCol, MDBIcon } from "mdbreact";
 import "./App.css";
-import "../src/styles/style3.css";
+// import "../src/styles/style3.css";
 import "../src/styles/style4.css";
-import "../src/styles/style2.css";
+// import "../src/styles/style2.css";
 import Footer from "./Components/Footer/Footer";
 import Blogs from "./Components/Blogs/Blogs";
 import { FiSearch } from "react-icons/fi";
@@ -16836,10 +16836,10 @@ function App() {
                       class="iMobilecard iMobile-faster-card"
                       style={{ minHeight: "230px" }}
                     >
-                      <div class="i-m" style={{ minHeight: "230px" }}>
+                      <div class="i-m" style={{ minHeight: "230px", margin:'3px 4px' }}>
                         <div class="content">
                           <div class="text-color-gray">
-                            <h3 class="text-color-gray">
+                            <h3 class="text-color-gray" >
                               For any assistance please call our customer care
                               number
                             </h3>
@@ -16874,7 +16874,7 @@ function App() {
                           {/* <!--19/09/2022 end--> */}
                           <div
                             class="button-group"
-                            style={{ marginTop: "20px" }}
+                            style={{ marginTop: "20px",visibility:'visible' }}
                           >
                             {/* <!-- Dialer button changes Start --> */}
                             <a

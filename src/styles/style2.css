@@ -54626,8 +54626,7 @@ table.left-column-heading-table tr td.value {
   margin-bottom: 0;
 }
 .knowledgeCentre .card-lists .card-list .card-icon {
-  /* background: url("../../../etc.clientlibs/icicibank/clientlibs/clientlib-base/resources/images/icons/report-icon.svg")
-    no-repeat; */
+
   margin-right: 12px;
   width: 35px;
   height: 35px;
@@ -54793,13 +54792,7 @@ table.left-column-heading-table tr td.value {
   display: block;
   position: absolute;
   height: calc(1em * 1.4);
-  /* background: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(rgba(255, 255, 255, 0)),
-    color-stop(75%, white)
-  ); */
+
   background: linear-gradient(to right, rgba(255, 255, 255, 0), white 75%);
 }
 .knowledgeCentre .line-clamp.line-clamp-4 {
