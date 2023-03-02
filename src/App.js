@@ -17066,7 +17066,7 @@ function App() {
                 >
                   <a data-toggle="tab">Compare &amp; Buy</a>
                 </li>
-              </ul>
+              </ul><br/><br/>
 
               <div id="trendingoffers">
                 <div class="trending-deals-slider slick-initialized slick-slider slick-dotted">
