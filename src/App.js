@@ -26,8 +26,8 @@ function App() {
 
   return (
     <>
-          {/* nav bar */}
-          <div
+      {/* nav bar */}
+      <div
         className="root container responsivegrid"
         style={{ position: "relative", top: personal ? "" : "50px" }}
       >
@@ -16610,28 +16610,18 @@ function App() {
                           </div>
                           <img class="mt-15" />
                         </div>
-                        
                       </div>
-                      
                     </div>
-
                   </div>
-                  
                 </div>
               </div>
             </div>
-            
           </div>
         </div>
-
       </div>
 
-  
-<Credit />
+      <Credit />
 
-
-
-     
       <div className="video-popup imobile" style={{ display: "none" }}>
         <div className="video-popup-inner">
           <div className="popup-close">
@@ -17077,6 +17067,81 @@ function App() {
                   <a data-toggle="tab">Compare &amp; Buy</a>
                 </li>
               </ul>
+
+              <div id="trendingoffers">
+                <div class="trending-deals-slider slick-initialized slick-slider slick-dotted">
+                  <div class="slick-list draggable">
+                    <div
+                      class="slick-track"
+                      style={{
+                        opacity: "1",
+                        width: "387px",
+                        transform: "translate3d(0px, 0px, 0px)",
+                      }}
+                    >
+                      <div
+                        class="deal-card slick-slide slick-current slick-active"
+                        style={{ height: "363px", width: "363px" }}
+                        tabindex="0"
+                        role="tabpanel"
+                        id="slick-slide50"
+                        aria-describedby="slick-slide-control50"
+                        data-slick-index="0"
+                        aria-hidden="false"
+                      >
+                        <div class="deal-inner">
+                          <div class="image">
+                            <a
+                              href="/offers/swiggy-instamart-discount-offer"
+                              tabindex="0"
+                            >
+                              <img
+                                src="/content/dam/icicibank/india/managed-assets/images/offer-zone/credit-card/Swiggy-Instamart-discount-offer-m.jpg"
+                                loading="lazy"
+                              />
+                            </a>
+                          </div>
+                          <div class="offer" style={{ height: "90px" }}>
+                            <a
+                              href="/offers/swiggy-instamart-discount-offer"
+                              tabindex="0"
+                            >
+                              Use your ICICI Bank Credit Cards.
+                            </a>
+                          </div>
+                          <div class="description"></div>
+                          <div class="buttons">
+                            <a
+                              href="/offers/swiggy-instamart-discount-offer"
+                              rel=""
+                              class="ic-btn"
+                              tabindex="0"
+                            >
+                              Know more
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <ul class="slick-dots" role="tablist">
+                    <li class="slick-active" role="presentation">
+                      <button
+                        type="button"
+                        role="tab"
+                        id="slick-slide-control50"
+                        aria-controls="slick-slide50"
+                        aria-label="1 of 1"
+                        tabindex="0"
+                        aria-selected="true"
+                      >
+                        1
+                      </button>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
               <div
                 id="discountandofferstabs-f61f979ec9-item-3576d41b41-tabpanel"
                 role="tabpanel"
@@ -17477,8 +17542,7 @@ function App() {
         </section>
       </div>
 
-
-      <Footer/>
+      <Footer />
     </>
   );
 }
